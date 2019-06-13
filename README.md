@@ -1,2 +1,2 @@
 # ASR-joint
-attention model &amp; DA joint trained model
+attention model & using ASR features
